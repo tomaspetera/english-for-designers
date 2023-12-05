@@ -22,5 +22,5 @@ So, "good" is a simple word we use a lot. It helps us say what's right or okay, 
 
 
 
-[first-draft](01-one-word/first-draft.md)
-[revision](01-one-word/revision.md)
+[FIRST-DRAFT](01-one-word/first-draft.md)
+[REVISION](01-one-word/revision.md)
