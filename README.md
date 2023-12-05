@@ -2,4 +2,4 @@
 
 ## Contents
 
-1. [Final](final.md)
+1. [final](final.md)
