@@ -2,4 +2,4 @@
 
 ## Contents
 
-1. [final](01-one-word/final.md)
+1. [One word](01-one-word/final.md)
