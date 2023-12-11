@@ -39,16 +39,11 @@ Add someting!!
 
 ![Artboard1_10](https://github.com/tomaspetera/english-for-designers/blob/10dc7cfdc9fb618e5c3834de0e007af06ac70b04/02-first-impression/img/smilefree.jpg)
 
-## Ministry of Justice
+### Also takeing a picture
 
-Just, the right logo for the most just part of the government.
-*(The competition was cancelled, but I am confident I had it!)*
+## Fototshooting for Bohempia
 
-- **Logo design**
-- **Visual presentations**
-
-![Artboard1_13](https://github.com/Stolgeth/english-for-designers/assets/133216768/779f6347-7bb4-462b-a4a5-0c64abde0e37)
-![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
+![Artboard1_13]()
 
 # Worth the mention
 
