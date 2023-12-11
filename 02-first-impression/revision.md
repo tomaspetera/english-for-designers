@@ -11,21 +11,8 @@ Add something about me!!
 
 ---
 
-## What I'm doing 
+## What I'm doing in my free time 
 
-### What I enjoy to spend on: 
-- Power building
-- Fitness plans
-- Diets and nutrition experimentation
-- Supplementation
-- Psychology
-- Behavioral science
-- Tech Enthusiast
-- AI fanatic
-- Fantasy and Sci-fi (DND and Star Wars to be exact!)
-- Character writing and design
-- Worldbuilding
-- And of course, friends and family
 
 # My projects: 
 
