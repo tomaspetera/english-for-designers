@@ -1,5 +1,5 @@
 # FIRST IMPRESSION
-# Hi! I am Tomáš Trlíček your Dis.Grafik
+# Hi! I am Tomáš Petera
 ### (You were born with it, I studied to get here!)
 
 ## About me
