@@ -3,7 +3,7 @@
 ## About me
 ![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
 
-Hi! I am Tomáš, ...
+Hi! I am Tomáš, I'm studnet od graphic designer and also grpahic designer. 
 
 Add something about me!!
 
