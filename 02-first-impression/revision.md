@@ -25,11 +25,13 @@ School project, add someting!
 
 ## Kutná hora
 
+Add someting!!
 
 ![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
 
 ## Améliora
 
+Add someting!!
 
 ![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
 
@@ -43,14 +45,9 @@ Add someting!!
 
 ## Fototshooting for Bohempia
 
-![Artboard1_13]()
+Add something!!
 
-# Worth the mention
-
-## Custom typeface for Tidal logo uplifting
+![Artboard1_13](https://github.com/tomaspetera/english-for-designers/blob/bc92d82c7f5148071a66f2e0e6d72f38878a1c9f/02-first-impression/img/foto.jpg)
 ![Artboard1_5](https://github.com/Stolgeth/english-for-designers/assets/133216768/c2640610-33a6-41d3-ac37-db65dab3fce3)
-
-## Packaging for MADCATZ
-![Artboard1_4](https://github.com/Stolgeth/english-for-designers/assets/133216768/15e44f64-07ae-4629-b50f-743d8743cff2)
 
 
