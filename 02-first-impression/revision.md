@@ -28,17 +28,10 @@ School project, add someting!
 
 ![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
 
-## Kutná Hora
+## Améliora
 
-Design that makes the entire place resonate with music. 
-*(Too good for the client, just good enough for 2nd place)*
 
-- **Posters**
-- **Concert visual design**
-- **Different applications**
-
-![Artboard1_8](https://github.com/Stolgeth/english-for-designers/assets/133216768/f3d83dbf-6cd0-4b4a-b5fa-9d3023797eb0)
-![Artboard1_9](https://github.com/Stolgeth/english-for-designers/assets/133216768/bf2b07db-267b-40d7-8c56-31079f2ab8ba)
+![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
 
 ## UN1VERS0
 
