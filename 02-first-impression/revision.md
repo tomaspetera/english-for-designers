@@ -5,7 +5,7 @@
 
 Hi! I am Tomáš Petera
 
-My experience spans several years in **designing and optimizing websites for users**. My enthusiasm for learning isn't confined to just design and UI/UX; it also encompasses fields like marketing, psychology, and personal development.
+Add something about me!!
 
 I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
 
