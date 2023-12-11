@@ -23,18 +23,10 @@ School project, add someting!
 
 ![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
 
-## Špindl
+## Kutná hora
 
-Visual identity connected to the people.
-*(My personal PTSD project)*
 
-- **Logo**
-- **City identity**
-- **Navigation system**
-- **Necessary printed media**
-
-![Artboard1_7](https://github.com/Stolgeth/english-for-designers/assets/133216768/0b144737-2c9e-4702-b7c5-e8d8917bc9d8)
-![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
+![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
 
 ## Kutná Hora
 
