@@ -48,6 +48,6 @@ Add someting!!
 Add something!!
 
 ![Artboard1_13](https://github.com/tomaspetera/english-for-designers/blob/bc92d82c7f5148071a66f2e0e6d72f38878a1c9f/02-first-impression/img/foto.jpg)
-![Artboard1_5](https://github.com/Stolgeth/english-for-designers/assets/133216768/c2640610-33a6-41d3-ac37-db65dab3fce3)
+![Artboard1_5](https://github.com/tomaspetera/english-for-designers/blob/af9773cac89f0b524e844eb0de84efa9020aeb1b/02-first-impression/img/foto2.jpg)
 
 
