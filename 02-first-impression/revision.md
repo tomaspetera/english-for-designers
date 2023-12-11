@@ -11,17 +11,7 @@ Add something about me!!
 
 ---
 
-### What usually I get paid for:
-- **Creativity** to outstand
-- **Visual identity** that survives the test of time
-- **Improvisation** or making miracles happen
-- **Branding** that transcends the visual
-- **Marketing** to capture the mind
-- **Strategy** that makes sense for you
-- **UI Design** and how we can interact with it
-- **UX Optimization** not quite UX Research but almost there
-- **UX Copywriting and funneling** how to make people think and do what we need them to do....
-- **Business optimization** or how to get your money's worth
+## What I'm doing 
 
 ### What I enjoy to spend on: 
 - Power building
