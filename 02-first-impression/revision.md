@@ -7,7 +7,7 @@ Hi! I am Tomáš Petera
 
 Add something about me!!
 
-I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
+
 
 ---
 
