@@ -22,7 +22,6 @@ School project, add someting!
 
 
 ![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
-![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
 
 ## Špindl
 
