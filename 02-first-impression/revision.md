@@ -41,7 +41,7 @@ Add someting!!
 
 ![Artboard1_10](https://github.com/tomaspetera/english-for-designers/blob/10dc7cfdc9fb618e5c3834de0e007af06ac70b04/02-first-impression/img/smilefree.jpg)
 
-### Also takeing a picture
+# Also taking a picture
 
 ## Fototshooting for Bohempia
 
