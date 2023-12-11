@@ -17,18 +17,9 @@ add someting!!
 
 # My projects: 
 
-## HUGDAY 2023
+## Fits (branding)
+School project, add someting!
 
-A revival year of Hug Day, an international hugging event! 
-*(It was difficult to hug while keeping 2m distance)*
-
-- **Logo**
-- **Webdesign** [Click me](https://www.hugday.sk)
-- **Visual identity**
-- **Branding**
-- **Marketing**
-- **Organizing**
-- **Cooperation**
 
 ![Page 12](https://github.com/Stolgeth/english-for-designers/assets/133216768/ab6adee4-123f-4df8-a3e9-50e8ac731ba9)
 ![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
