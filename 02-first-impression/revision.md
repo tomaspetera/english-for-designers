@@ -3,6 +3,7 @@
 ### (You were born with it, I studied to get here!)
 
 ## About me
+![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
 
 **As a Creative Director with more than seven years of experience in visual arts,** my true passion lies in crafting visual identities. I hold a firm belief that the **visual identity forms the essence of a brand**. This belief drives my commitment to both the creation of branding and its marketing evolution.
 
