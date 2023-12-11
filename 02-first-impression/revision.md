@@ -3,7 +3,7 @@
 ## About me
 ![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
 
-Hi! I am Tomáš Petera
+Hi! I am Tomáš, ...
 
 Add something about me!!
 
@@ -21,7 +21,7 @@ add someting!!
 School project, add someting!
 
 
-![Page 12](https://github.com/Stolgeth/english-for-designers/assets/133216768/ab6adee4-123f-4df8-a3e9-50e8ac731ba9)
+![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
 ![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
 
 ## Špindl
