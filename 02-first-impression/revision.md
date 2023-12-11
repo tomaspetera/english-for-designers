@@ -33,18 +33,11 @@ School project, add someting!
 
 ![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
 
-## UN1VERS0
+## SmileFree
 
-Products and goods that are shared in real and virtual meta-universe
-*(I made this 1 week before deadline in about 6 hours and somehow it ended up as my crowning project of 2nd year in school)*
+Add someting!!
 
-- **Clothing branding**
-- **Naming**
-- **NFT**
-- **Visual identity**
-
-![Artboard1_10](https://github.com/Stolgeth/english-for-designers/assets/133216768/cc3a84be-dcdc-4fab-bfda-58005848342d)
-![Artboard1_11](https://github.com/Stolgeth/english-for-designers/assets/133216768/f25d9fa6-237b-4b29-b386-3f48d14ddfd3)
+![Artboard1_10](https://github.com/tomaspetera/english-for-designers/blob/10dc7cfdc9fb618e5c3834de0e007af06ac70b04/02-first-impression/img/smilefree.jpg)
 
 ## Ministry of Justice
 
