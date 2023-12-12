@@ -30,7 +30,7 @@ That was the school project. The assignment centered around creating our own bra
 
 ## Kutná hora
 
-Add someting!!
+That was also a school project where the task involved creating a visual identity for a music festival in Kutná Hora. The venue chosen for the event was the St. Barbara's Cathedral.
 
 ![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
 
