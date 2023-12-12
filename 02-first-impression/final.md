@@ -3,20 +3,15 @@
 ## About me
 ![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
 
-Hello! I'm Tomáš, a graphic design student based in Votice, approximately 50 km from Prague. I graduated from Akademy Michael last year, earning the title DiS. Now, I aspire to attain a BcA. title, although its significance is comparable to the final exam we had in a subject akin to the bachelor's level.
+Hello! I'm Tomáš, a traveler with extensive experience in various cultures, and I'm a graphic design student based in Votice, around 50 km from Prague. I graduated from Akademy Michael last year, earning the title DiS. Currently, I'm working towards obtaining a BcA. title, which holds a significance similar to the final exam we had in a subject equivalent to the bachelor's level.
 
 Before enrolling at the Academy of Michael, I pursued studies at a secondary school to become a dental technician. It was a fascinating experience as we delved into subjects like somatology and stomatology.
 
 Currently, I work as a graphic designer. I also dabble in photography, occasionally pose as a model for events, collaborate with my dad, and engage with a promoter group to organize events.
 
 ### What I'm doing in my free time?
-I do some sports like running and walking.
 
-Reading some self-development books.
-
-Learning new skills such as taking pictures, improving communication, and more.
-
-Traveling
+I engage in various sports activities like running and walking. Additionally, I enjoy reading self-development books and learning new skills, including photography and enhancing communication abilities.
 
 
 ---
