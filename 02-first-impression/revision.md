@@ -7,7 +7,7 @@ Hi! I am Tomáš, I'm studnet of graphic designer based in Votice. It's somethin
 
 Before I began my studies at the Academy of Michael, I attended a secondary school where I was studying to become a dental technician. It was really interesting because we learned a lot about somatology and stomatology.
 
-Right now I working as a graphic desginer. Sometimes taking some pictures as a photographer, staying as a model for some occations, working with my dad and and sometimes I work for a promoter group to arrange events. 
+Right now I'm working as a graphic desginer. Sometimes taking some pictures as a photographer, staying as a model for some occations, working with my dad and and sometimes I work for a promoter group to arrange events. 
 
 
 
@@ -15,8 +15,9 @@ Right now I working as a graphic desginer. Sometimes taking some pictures as a p
 ---
 
 ## What I'm doing in my free time 
-add someting!!
-
+I do some sports like running and walking. 
+Reading some self-development books.
+Learning new skills such as taking pictures, improving communication, and more.
 
 # My projects: 
 
