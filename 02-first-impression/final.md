@@ -9,7 +9,7 @@ Before enrolling at the Academy of Michael, I pursued studies at a secondary sch
 
 Currently, I work as a graphic designer. I also dabble in photography, occasionally pose as a model for events, collaborate with my dad, and engage with a promoter group to organize events.
 
-#### What I'm doing in my free time?
+### What I'm doing in my free time?
 I do some sports like running and walking.
 
 Reading some self-development books.
