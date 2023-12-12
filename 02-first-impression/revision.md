@@ -50,7 +50,7 @@ This campaign wasn't put into action, but it holds promise if I decide to execut
 
 ## Fototshooting for Bohempia
 
-Add something!!
+As I mentioned, I'm also a bit of a photographer. Here, you can see a few of my latest photos that I took for the company BOHEMPIA.
 
 ![Artboard1_13](https://github.com/tomaspetera/english-for-designers/blob/bc92d82c7f5148071a66f2e0e6d72f38878a1c9f/02-first-impression/img/foto.jpg)
 ![Artboard1_5](https://github.com/tomaspetera/english-for-designers/blob/af9773cac89f0b524e844eb0de84efa9020aeb1b/02-first-impression/img/foto2.jpg)
