@@ -42,7 +42,7 @@ This project is a tangible realization, crafted for my friend aspiring to establ
 
 ## SmileFree
 
-Add someting!!
+This campaign wasn't put into action, but it holds promise if I decide to execute it. This project was my graduation assignment at Michael Academy. It revolves around the International Day of Smiling, celebrated on the first Friday of October, with a core focus on sharing smiles wherever you go. Another pivotal aspect aims to enhance mental and psychological well-being through slogans like "I smile because I eat healthily" or "I smile because I exercise." The fundamental idea is that actively participating in activities that trigger hormones like serotonin and dopamine can aid in navigating post-COVID situations and other stressful scenarios, such as work or conflicts.
 
 ![Artboard1_10](https://github.com/tomaspetera/english-for-designers/blob/10dc7cfdc9fb618e5c3834de0e007af06ac70b04/02-first-impression/img/smilefree.jpg)
 
