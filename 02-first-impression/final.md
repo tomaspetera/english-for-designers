@@ -18,7 +18,9 @@ I engage in various sports activities like running and walking. Additionally, I 
 # My projects: 
 
 ## Fits (branding)
-The assignment centered around creating our own brand, and my focus was on a non-existent brand called Fits. The emphasis was on sports clothing designed for exceptional comfort and a perfect fit. Additionally, it included a specialized YouTube channel demonstrating the correct techniques for various exercises and strength training, both in the gym and at home.
+This is my project, where the task was to create my own brand. I focused on developing my own branding for a yet non-existent brand named FITS. The truncation of the word FITS is intentional to suggest that all items will precisely fit your body. As you've already gathered, the brand specializes in designing clothing specifically for individuals engaged in sports activities such as running or working out at the gym.
+
+The visual identity is solely built around the name, which is typographically adjusted to convey a sense of dynamism. Moreover, upon purchasing clothing for a specific activity, customers gain access to a YouTube channel where prepared videos are available. These videos are categorized, each demonstrating how to perform a particular exercise either at the gym or in a home environment. In the image here, you can see the entire visual presentation in advertising, clothing, and the YouTube channel where the mentioned videos are accessible, along with a preview of the future brand's logo.
 
 ![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
 
