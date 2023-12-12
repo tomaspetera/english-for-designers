@@ -36,7 +36,7 @@ That was also a school project where the task involved creating a visual identit
 
 ## Améliora
 
-Add someting!!
+This project is a tangible realization, crafted for my friend aspiring to establish her own salon. The visual identity centers around the term "améliora," inspired by her daughter Amélie's name, aiming to weave a personal touch. I coined the name "améliora" as it translates to beautiful in French. The entirety of the brand is meticulously constructed with vibrant and playful elements, reflecting a dynamic and colorful character.
 
 ![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
 
