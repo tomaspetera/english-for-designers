@@ -34,7 +34,7 @@ Compositionally, I played with the design by prioritizing the most important inf
 
 ## Améliora
 
-This project is a tangible realization, crafted for my friend aspiring to establish her own salon. The visual identity centers around the term "améliora," inspired by her daughter Amélie's name, aiming to weave a personal touch. I coined the name "améliora" as it translates to beautiful in French. The entirety of the brand is meticulously constructed with vibrant and playful elements, reflecting a dynamic and colorful character.
+Branding a cosmetic salon for my friend was a bit of a challenge because the salon is located in a small town, and I wrestled with the idea of creating something both well-communicating and simultaneously functional and modern. Unfortunately, as I mentioned, it's a cosmetic salon branding in a small town where visual identity isn't as prominent, and people are more accustomed to simple, rural signage. Nevertheless, I chose to take a modern approach. The biggest challenge was integrating the desired name of her daughter (Amélie) with the name of the entire business. In the end, I came up with the word "Améliora," which reflects her daughter's name and also echoes the French word "Amelior," meaning beautiful. The entire visual is built around nature and the natural cosmetics used in the salon. The visual identity extends not only to marketing communication but also to all promotional materials such as discount cards, gift vouchers, business cards, and promotional materials.
 
 ![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
 
