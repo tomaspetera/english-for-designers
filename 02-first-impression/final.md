@@ -48,7 +48,7 @@ The last project presented here is my final work at the Academy of Michael. This
 
 ## Fototshooting for Bohempia
 
-As I mentioned, I'm also a bit of a photographer. Here, you can see a few of my latest photos that I took for the company BOHEMPIA.
+And finally, a small glimpse from a photoshoot where I captured a campaign for the company BOHEMPIA. The campaign focuses on presenting barefoot shoes that are characterized not only by comfort but also by style. The concept of the photographs draws inspiration from the brand LEVIS, where the company itself found inspiration and created its products based on this influence.
 
 ![Artboard1_13](https://github.com/tomaspetera/english-for-designers/blob/bc92d82c7f5148071a66f2e0e6d72f38878a1c9f/02-first-impression/img/foto.jpg)
 ![Artboard1_5](https://github.com/tomaspetera/english-for-designers/blob/af9773cac89f0b524e844eb0de84efa9020aeb1b/02-first-impression/img/foto2.jpg)
