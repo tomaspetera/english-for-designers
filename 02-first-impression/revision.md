@@ -15,8 +15,10 @@ Right now I'm working as a graphic desginer. Sometimes taking some pictures as a
 ---
 
 ## What I'm doing in my free time?
-I do some sports like running and walking. 
+I do some sports like running and walking.
+
 Reading some self-development books.
+
 Learning new skills such as taking pictures, improving communication, and more.
 
 # My projects: 
