@@ -24,8 +24,7 @@ Learning new skills such as taking pictures, improving communication, and more.
 # My projects: 
 
 ## Fits (branding)
-School project, add someting!
-
+That was the school project. The assignment centered around creating our own brand, and my focus was on a non-existent brand called Fits. The emphasis was on sports clothing designed for exceptional comfort and a perfect fit. Additionally, it included a specialized YouTube channel demonstrating the correct techniques for various exercises and strength training, both in the gym and at home.
 
 ![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
 
