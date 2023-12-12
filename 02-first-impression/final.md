@@ -26,7 +26,9 @@ The visual identity is solely built around the name, which is typographically ad
 
 ## Kutná hora
 
-That was also a school project where the task involved creating a visual identity for a music festival in Kutná Hora. The venue chosen for the event was the St. Barbara's Cathedral.
+The goal of this project was to create a complete visual identity for the Kutná Hora festival, held annually in the St. Barbara's Cathedral. My visual identity is based on words associated with music, such as "assai," "rondo," or "resonate." Another element of the visual identity incorporates the structure of St. Barbara's Cathedral itself, highlighting its three most significant roofs outlined in curves that intertwine into the actual violins, symbolizing and illustrating the music within the cathedral.
+
+Compositionally, I played with the design by prioritizing the most important information in larger fonts, complemented by a hand-painted background.
 
 ![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
 
