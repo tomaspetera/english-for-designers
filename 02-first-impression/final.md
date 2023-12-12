@@ -3,11 +3,11 @@
 ## About me
 ![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
 
-Hi! I am Tomáš, I'm student of graphic design based in Votice. It's something about 50 km from the Prague. Last year I graduated on Akademy Michael and I got the tilte DiS. And now? I'd want to hold a BcA. title, but it doesn't matter since we had a final exam in a subject similar to the bachelor's level, and both titles are seen as having the same importance. 
+Hello! I'm Tomáš, a graphic design student based in Votice, approximately 50 km from Prague. I graduated from Akademy Michael last year, earning the title DiS. Now, I aspire to attain a BcA. title, although its significance is comparable to the final exam we had in a subject akin to the bachelor's level.
 
-Before I began my studies at the Academy of Michael, I attended a secondary school where I was studying to become a dental technician. It was really interesting because we learned a lot about somatology and stomatology.
+Before enrolling at the Academy of Michael, I pursued studies at a secondary school to become a dental technician. It was a fascinating experience as we delved into subjects like somatology and stomatology.
 
-Right now I'm working as a graphic desginer. Sometimes taking some pictures as a photographer, staying as a model for some occations, working with my dad and and sometimes I work for a promoter group to arrange events. 
+Currently, I work as a graphic designer. I also dabble in photography, occasionally pose as a model for events, collaborate with my dad, and engage with a promoter group to organize events.
 
 
 
