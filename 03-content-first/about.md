@@ -5,5 +5,8 @@
 
 ## Portfolio
 
-[First Impression](02-first-impression/final.md)
-[Content first](03-content-first/about.md)
+[Portfolio](https://github.com/tomaspetera/english-for-designers/blob/ad60ced934d024635f87c73e32df2b3f9e8c179b/02-first-impression/final.md)
+
+## Main page
+
+[Home page]()
