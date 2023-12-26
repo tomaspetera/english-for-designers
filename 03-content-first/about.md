@@ -9,4 +9,4 @@
 
 ## Main page
 
-[Home page]()
+[Home page](https://github.com/tomaspetera/english-for-designers.git)
