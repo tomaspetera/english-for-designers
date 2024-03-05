@@ -1,25 +1,26 @@
 # Voice, Tone, and Style
 
-## DBRAND’s content style guide
+# Apple Inc. Marketing Strategy
 
-DBRAND is a large company making high quality cases and skins for all sorts of gadgets. Mobile phones, earbuds, consoles, laptops, you name it.
+Apple Inc. is renowned for its innovative and effective marketing strategy. Here are the key aspects of their approach:
 
-### Voice
+## Simplicity
+Apple focuses on simplicity in its advertisements and marketing texts. Instead of voiceovers, special effects, long lists of product features, or colorful graphics that distract from the actual product, Apple opts to use ads and marketing texts that are simple but direct.
 
-DBRAND’s voice is overall professional, yet down to Earth. They want to show its customers, they are normal humans that like humor and have personal relations to their partners.
+## Knows Its Audience
+Apple understands its target audience well and knows how to appeal to them. It creates product awareness, has an effective marketing strategy, and also focuses on creating a need for the product among other market sectors.
 
-#### Professionality
+## Customer Experience
+Apple provides a well-appreciated customer experience. Their products are designed to improve the lives of their target customers and loyal customers.
 
-On one hand, they are very professional. They know what they are doing and it is obvious to the customer.
+## Secrecy and Hype Around the Product
+Apple creates secrecy and hype around its products. This tension and anticipation help create curiosity and interest in their products.
 
-#### Fun
+## Community of Loyal Users
+Apple has a strong community of loyal users. These customers are loyal to the brand and often become brand ambassadors who spread awareness about Apple products.
 
-On the other hand however, they want to put the “fun” everywhere possible. Want to work with them? You will find no “Join us” button. You fill find a “I want a job” button. When shopping for a protective skin for Beats headphones - do you expect how they will be claiming how good value their skins are and how you surely want to protect your amazing and expensive headphones? Nope. Their main text for this product is “Beats skins - Overpriced stickers for overpriced headphones.” They have no problem with joking even about their prices.
+## Emphasis on Product Value
+Apple places a great emphasis on the value of its products. Even though their products are often more expensive than competing products, customers are willing to pay a premium for the quality, innovation, and design that Apple offers.
 
-#### Partnerships
-
-Important part of DBRAND’s image is how they treat people they partnered with. Probably the best example is one of the largest tech channels on YouTube - Linus Tech Tips. Some companies require specific things to be said by the partnered creator, some give more freedom. But only a few come close to how DBRAND and Linus work. They don’t feel like the typical “This video is sponsored by…”. They feel more like 2 friends trying to help each other while having a love-hate relationship. They often make fun of each other, trashtalk each other and people love it.
-
-### Tone
-
-DBRAND’s tone changes based on who they are talking to. But overall they assume you chose them mainly because of their voice and brand image.
+## Commitment to Carbon Neutrality
+Apple is a pioneer in carbon neutrality. This commitment is part of their marketing strategy and helps them create a positive brand image.
