@@ -30,3 +30,5 @@ Apple's communication style is clear, concise, and impactful. They use:
 - Motivational storytelling: Sharing stories that inspire and connect with the users.
 - Assuring, grounded tone of writing: Making users feel secure and valued.
 - Respectful yet commands respect: Treating users with respect while also commanding respect through their industry-leading innovations.
+
+https://www.apple.com/
