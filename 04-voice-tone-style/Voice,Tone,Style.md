@@ -20,3 +20,6 @@
 
 **Informal writing standards**: My texts are not very structured or formal. I write informally and spontaneously to reflect my personality and voice. I do not follow strict rules of text hierarchy or grammar, but rather use my own style and preferences. I also use abbreviations, acronyms and symbols to make my text shorter and more comfortable.
 
+[One word](01-one-word/final.md)
+[First Impression](02-first-impression/final.md)
+[Content first](03-content-first/about.md)
