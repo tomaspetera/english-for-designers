@@ -19,7 +19,3 @@
 **I use CAPITAL LETTERS**: I use CAPITAL LETTERS to highlight certain words or phrases that I want to emphasize or draw attention to. I use them to show my enthusiasm, excitement or anger. I also use them to make my text more dramatic and powerful. I do not abuse them, but rather use them sparingly and moderately.
 
 **Informal writing standards**: My texts are not very structured or formal. I write informally and spontaneously to reflect my personality and voice. I do not follow strict rules of text hierarchy or grammar, but rather use my own style and preferences. I also use abbreviations, acronyms and symbols to make my text shorter and more comfortable.
-
-[One word](01-one-word/final.md)
-[First Impression](02-first-impression/final.md)
-[Content first](03-content-first/about.md)
