@@ -1,21 +1,33 @@
 # My voice, tone and style
-## Voice
-**Friendly**: I like to talk to people and make them feel good. I use a warm and cheerful voice that shows my interest and enthusiasm. I avoid using rude or negative words that could hurt or offend someone. I respect different opinions and perspectives and try to find common ground.
+## 🗣️ My Voice
 
-**Curious**: I love learning new things and discovering new possibilities. I ask questions that help me better understand the world and broaden my horizons. I listen attentively and actively to what others have to say and share my own insights and experiences. I am open and willing to try new things.
+### Friendly
+I thrive on interacting with folks, aiming to brighten their day. My approach is all about warmth and positivity, ensuring everyone feels valued. Rudeness? Negative vibes? No place for them here. I'm all for embracing diversity in thoughts and finding that sweet spot where we all connect.
 
-**Creative**: I enjoy expressing myself in original and imaginative ways. I use a colorful and lively voice that captures the attention and imagination of the listeners. I like to play with words and use metaphors, similes and analogies to explain my point of view. I also use humor and irony to spice up my speech and make it more interesting.
+### Curious
+Constantly on a quest for knowledge, I'm fascinated by the endless possibilities out there. Through thoughtful questions, I deepen my understanding of the world and eagerly listen to others, sharing insights along the way. Open-minded and adventurous, I'm always on board to explore new horizons.
 
-## Tone
-**Informal**: I prefer a relaxed and informal tone that suits most situations and contexts. I use a conversational and casual language that gives me naturalness and authenticity. I also use abbreviations, shortened words and slang words that give me friendliness and approachability. I do not care if I break some grammar rules, if it improves the fluency and expressiveness of my speech.
+### Creative
+My creative spark shines through in how I express myself, using a dynamic and engaging tone to captivate anyone who listens. Wordplay, metaphors, and a sprinkle of humor are my tools of choice to make conversations not just informative but also entertaining.
 
-**Emotional**: I like to convey my feelings and emotions through my tone. I use different intonations, pitches and loudness to show my mood and attitude. I also use emoticons, exclamation marks and punctuation marks to emphasize my tone and give it more expression. I do not hide my emotions, but rather share them with others.
+## 🎨 My Tone
 
-**Confident**: I use a confident and assertive tone that shows my competence and credibility. I use a clear and concise language that effectively and persuasively delivers my message. I also use facts, evidence and examples to support my claims and arguments. I do not hesitate or doubt myself, but rather speak with conviction and authority.
+### Informal
+Casual and friendly, that's my style. Conversations with me feel natural, peppered with slang and an easy-going vibe that makes everyone feel at home. Perfect grammar? Not my priority if it means keeping our chats flowing and genuine.
 
-## Style
-**I use emoticons**: I use emoticons to add more fun and personality to my text. I use them to express my emotions, reactions and opinions. I also use them to make my text more lively and attractive. I do not use them too often, but rather use them strategically and appropriately.
+### Emotional
+I'm an open book, expressing my emotions freely and encouraging others to do the same. My tone varies with my feelings, adding depth and authenticity to our interactions. Let's connect on a human level.
 
-**I use CAPITAL LETTERS**: I use CAPITAL LETTERS to highlight certain words or phrases that I want to emphasize or draw attention to. I use them to show my enthusiasm, excitement or anger. I also use them to make my text more dramatic and powerful. I do not abuse them, but rather use them sparingly and moderately.
+### Confident
+When I speak, it's with clarity and conviction. I pride myself on my ability to communicate effectively, supporting my points with solid evidence. Doubt has no place here—I'm all about assurance and expertise.
 
-**Informal writing standards**: My texts are not very structured or formal. I write informally and spontaneously to reflect my personality and voice. I do not follow strict rules of text hierarchy or grammar, but rather use my own style and preferences. I also use abbreviations, acronyms and symbols to make my text shorter and more comfortable.
+## ✍️ My Style
+
+### Emoticons
+🙂😉😄 Emoticons are my go-to for adding personality and emotion to my texts. They're the perfect companions to make my messages lively and engaging, used just right to complement my words.
+
+### CAPITAL LETTERS
+I use CAPITAL LETTERS to emphasize and convey my excitement or importance, making sure my point comes across with the intended impact. It's all about the right balance.
+
+### Informal Writing
+Structured and formal? That's not me. My writing mirrors my easy-going nature, breaking free from strict conventions to create a more personal and relaxed reading experience. Abbreviations, symbols, and a dash of creativity make my texts uniquely mine.
