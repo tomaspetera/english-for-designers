@@ -7,3 +7,5 @@
 3. [Content first](03-content-first/about.md)
 4. [Voice, tone, style](04-voice-tone-style/index.md)
 5. [Story telling](05-story-telling/storytelling.md)
+6. [Thesis]()
+7. [Year in review]()
