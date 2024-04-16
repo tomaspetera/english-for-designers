@@ -19,4 +19,4 @@ These processes should ideally repeat five times during the night, which is why 
 I chose this topic because when I was younger, around 20 years old, going to clubs was a daily routine. I visited clubs about four times a week. I remember that time fondly, but it also showed me how important sleep is. During that period, I averaged about six hours of sleep a night and felt terrible every day. This also affected my eating habits – instead of cooking at home, I often opted for fast food. Fortunately, I discovered self-development books and became more interested in the importance of sleep. Books like 'The Circadian Code' by Satchin Panda and 'Why We Sleep' by Matthew Walker taught me all these essential facts.
 
 Since then, I have been maintaining discipline: I go to bed regularly around 10 PM and wake up at 7 AM.
-If you would like to know how sleeps works, play this video: ![Page 20]()
+If you would like to know how sleeps works, download this video: ![Page 20](https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/How%20does%20sleep%20work%EF%BC%9F%20-%20Introduction%2C%20Physiology%2C%20EEG%2C%20Circadian%20Rhythm%20.mp4)
