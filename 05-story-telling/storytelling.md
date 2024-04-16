@@ -1,6 +1,10 @@
 # The Importance of Sleep
 
-Hello, my name is Tomáš and today I want to talk about a frequently overlooked topic, which is sleep. Many people know that food, drink, and exercise are essential parts of our lives. We can survive up to 21 days without food, only about 3 days without water, and even months without exercise. But has anyone ever really thought about sleep?
+Hello, my name is Tomáš and today I want to talk about a frequently overlooked topic, which is sleep. 
+Many people know that food, drink, and exercise are essential parts of our lives. 
+
+
+We can survive up to 21 days without food, only about 3 days without water, and even months without exercise. But has anyone ever really thought about sleep?
 
 We all know that sleep is crucial for our health, yet many of us do not give it the attention it deserves. While humans can survive longer without sleep than without water, you surely know the feeling of waking up the morning after a party and having to do something. You can't even get out of bed, and many people attribute this to alcohol. But what if you didn't drink at that event? Why do you feel just as bad?
 
