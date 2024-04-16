@@ -10,7 +10,7 @@ We can survive up to 21 days without food, only about 3 days without water, and 
 We all know that sleep is crucial for our health, yet many of us do not give it the attention it deserves. While humans can survive longer without sleep than without water, you surely know the feeling of waking up the morning after a party and having to do something. You can't even get out of bed, and many people attribute this to alcohol. But what if you didn't drink at that event? Why do you feel just as bad?
 
 The reason is that the brain is a complex organ that goes through three processes during sleep: REM (rapid eye movement), nREM (non-rapid eye movement/deep sleep), and light sleep. As we fall asleep, we gradually move into light sleep, where our brain prepares for the deep sleep process. In this phase, neuronal connections are joined and strengthened, which helps to solidify what we learned during the day in our minds.
-![Page 11]()
+![Page 11](https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/The-Structure-of-Sleep-Brain-Docs-Sherzai-1024x1024.jpg)
 
 Then comes the REM phase, during which all neural connections between the brain and the body are disconnected. If this didn't happen, we would move in bed just as we do when awake. During this phase, we dream, and the brain goes through a pruning process, cutting off neural connections that haven't been used for a long time. Friedrich Nietzsche would say that in this phase, we come to terms with the real world.
 
