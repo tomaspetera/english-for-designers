@@ -2,7 +2,7 @@
 
 Hello, my name is Tomáš and today I want to talk about a frequently overlooked topic, which is sleep. 
 Many people know that food, drink, and exercise are essential parts of our lives. 
-![Page 6](https://github.com/tomaspetera/english-for-designers/blob/113e8c7d078ee4a809b6dfeea28a4cc55f506fed/02-first-impression/img/Screenshot_2023-11-15-10-34-58-712_com.google.android.apps.photos.jpg)
+![Page 6](https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20food%2C%20drink%20and%20do%20sports%2040050.jpg)
 
 We can survive up to 21 days without food, only about 3 days without water, and even months without exercise. But has anyone ever really thought about sleep?
 
