@@ -1,14 +1,14 @@
 # The Incredible Adventures of Tomáš in the Land of Nod
 
 <div style="text-align: center;">
-    <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg" width="70%" alt="Person Sleeping">
+    <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg" width="60%" alt="Person Sleeping">
 </div>
 
 Hello, **adventurers**! My name is Tomáš, and I'm here to guide you through the mystical and often overlooked realm of **Sleep**. Many brave souls focus on the pillars of survival—food, water, and exercise. Legends say you can survive up to **21 days** without food, about **3 days** without water, and even months without exercise. But what about sleep? Let's dive into the night and uncover its secrets!
 
 ## The Secret Life of Your Brain at Night
 
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Diagram%20nebo%20ilustrace%2C%20kter%C3%A1%20ukazuje%2C%20jak%20mozek%20pracuje%20b%C4%9Bhem%20r%C5%AFzn%C3%BDch%20f%C3%A1z%C3%AD%20sp%C3%A1nku%20(light%20sl.jpg" width="70%" alt="Brain Activity During Sleep">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Diagram%20nebo%20ilustrace%2C%20kter%C3%A1%20ukazuje%2C%20jak%20mozek%20pracuje%20b%C4%9Bhem%20r%C5%AFzn%C3%BDch%20f%C3%A1z%C3%AD%20sp%C3%A1nku%20(light%20sl.jpg" width="60%" alt="Brain Activity During Sleep">
 
 Imagine your brain as a bustling city at night where different neighborhoods (or brain processes) light up in sequence:
 
@@ -18,7 +18,7 @@ Imagine your brain as a bustling city at night where different neighborhoods (or
 
 During the REM stage, our body must disconnect from the brain to prevent live-action dream reenactments. It's like having an internal bodyguard making sure you stay put. Philosopher Friedrich Nietzsche might say, "In this phase, we grapple with the very essence of reality through our dreams."
 
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Nap%C5%99%C3%ADklad%20osoba%2C%20kter%C3%A1%20sn%C3%AD%20bizarn%C3%AD%20sen%2C%20aby%20ilustrovala%20REM%20f%C3%A1zi%201986.jpg" width="100%" alt="Dreaming Person">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Nap%C5%99%C3%ADklad%20osoba%2C%20kter%C3%A1%20sn%C3%AD%20bizarn%C3%AD%20sen%2C%20aby%20ilustrovala%20REM%20f%C3%A1zi%201986.jpg" width="80%" alt="Dreaming Person">
 
 ## Why Should You Care About Sleep?
 
@@ -26,7 +26,7 @@ Ever tried functioning like a human after a wild party with minimal sleep? Not f
 
 Studies suggest that sleep is as crucial for survival as food and water. Without enough sleep, our mental focus becomes as sharp as a rubber spoon, and our mood swings might qualify us for an emotional rollercoaster ride.
 
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Zobrazuje%20zdravotn%C3%AD%20probl%C3%A9my%20spojen%C3%A9%20s%20nedostatkem%20sp%C3%A1nku%2C%20jako%20je%20sn%C3%AD%C5%BEen%C3%A1%20imunita%2C%20p%C5%99ib%C3%ADr%C3%A1n.jpg" width="70%" alt="Consequences of Sleep Deprivation">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Zobrazuje%20zdravotn%C3%AD%20probl%C3%A9my%20spojen%C3%A9%20s%20nedostatkem%20sp%C3%A1nku%2C%20jako%20je%20sn%C3%AD%C5%BEen%C3%A1%20imunita%2C%20p%C5%99ib%C3%ADr%C3%A1n.jpg" width="60%" alt="Consequences of Sleep Deprivation">
 
 ## A Personal Journey to Dreamland
 
