@@ -26,6 +26,8 @@ Ever tried functioning like a human after a wild party with minimal sleep? Not f
 
 Studies suggest that sleep is as crucial for survival as food and water. Without enough sleep, our mental focus becomes as sharp as a rubber spoon, and our mood swings might qualify us for an emotional rollercoaster ride.
 
+<img src="" width="70%" alt="Consequences of Sleep Deprivation">
+
 ## A Personal Journey to Dreamland
 
 Back in my wild days, around the age of 20, I was a nightclub knight, battling through dance floors about four times a week. Fun times, but my sleep suffered. Badly. I averaged six hours of sleep a night, and my diet? Let's just say fast food and I were best pals.
