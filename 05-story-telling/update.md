@@ -26,7 +26,7 @@ Ever tried functioning like a human after a wild party with minimal sleep? Not f
 
 Studies suggest that sleep is as crucial for survival as food and water. Without enough sleep, our mental focus becomes as sharp as a rubber spoon, and our mood swings might qualify us for an emotional rollercoaster ride.
 
-<img src="" width="70%" alt="Consequences of Sleep Deprivation">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Zobrazuje%20zdravotn%C3%AD%20probl%C3%A9my%20spojen%C3%A9%20s%20nedostatkem%20sp%C3%A1nku%2C%20jako%20je%20sn%C3%AD%C5%BEen%C3%A1%20imunita%2C%20p%C5%99ib%C3%ADr%C3%A1n.jpg" width="70%" alt="Consequences of Sleep Deprivation">
 
 ## A Personal Journey to Dreamland
 
