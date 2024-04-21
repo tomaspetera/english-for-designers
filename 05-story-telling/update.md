@@ -34,7 +34,7 @@ Back in my wild days, around the age of 20, I was a nightclub knight, battling t
 
 Then I stumbled upon the sacred texts of self-improvement: 'The Circadian Code' by Satchin Panda and 'Why We Sleep' by Matthew Walker. These books were my guides to the promised land of proper sleep.
 
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Osoba%2C%20kter%C3%A1%20p%C5%99ipravuje%20sv%C3%A9%20lo%C5%BEn%C3%AD%20prost%C5%99ed%C3%AD%20pro%20sp%C3%A1nek%2C%20nap%C5%99%C3%ADklad%20zatem%C5%88uje%20m%C3%ADstnost%20nebo%20na.jpg" width="70%" alt="reparing for Sleep">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Osoba%2C%20kter%C3%A1%20p%C5%99ipravuje%20sv%C3%A9%20lo%C5%BEn%C3%AD%20prost%C5%99ed%C3%AD%20pro%20sp%C3%A1nek%2C%20nap%C5%99%C3%ADklad%20zatem%C5%88uje%20m%C3%ADstnost%20nebo%20na.jpg" width="60%" alt="reparing for Sleep">
 
 Now, I follow a knightly routine:
 - **Bedtime**: 10 PM sharp.
