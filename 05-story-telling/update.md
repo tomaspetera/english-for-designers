@@ -1,13 +1,14 @@
 # The Incredible Adventures of Tomáš in the Land of Nod
 
 <div style="text-align: center;">
-    <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg" width="70%" alt="Description of Image">
+    <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg" width="70%" alt="Person Sleeping">
 </div>
 
 Hello, **adventurers**! My name is Tomáš, and I'm here to guide you through the mystical and often overlooked realm of **Sleep**. Many brave souls focus on the pillars of survival—food, water, and exercise. Legends say you can survive up to **21 days** without food, about **3 days** without water, and even months without exercise. But what about sleep? Let's dive into the night and uncover its secrets!
 
 ## The Secret Life of Your Brain at Night
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Diagram%20nebo%20ilustrace%2C%20kter%C3%A1%20ukazuje%2C%20jak%20mozek%20pracuje%20b%C4%9Bhem%20r%C5%AFzn%C3%BDch%20f%C3%A1z%C3%AD%20sp%C3%A1nku%20(light%20sl.jpg" width="70%" alt="Description of Image">
+
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Diagram%20nebo%20ilustrace%2C%20kter%C3%A1%20ukazuje%2C%20jak%20mozek%20pracuje%20b%C4%9Bhem%20r%C5%AFzn%C3%BDch%20f%C3%A1z%C3%AD%20sp%C3%A1nku%20(light%20sl.jpg" width="70%" alt="Brain Activity During Sleep">
 
 Imagine your brain as a bustling city at night where different neighborhoods (or brain processes) light up in sequence:
 
