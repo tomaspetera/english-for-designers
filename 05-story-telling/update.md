@@ -1,4 +1,5 @@
-![Person Sleeping](https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%20Tento%20obr%C3%A1zek%20by%20mohl%20b%C3%BDt%20na%20za.jpg)
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%20Tento%20obr%C3%A1zek%20by%20mohl%20b%C3%BDt%20na%20za.jpg" width="50%" alt="Description of Image">
+
 # The Incredible Adventures of Tomáš in the Land of Nod
 
 Hello, **adventurers**! My name is Tomáš, and I'm here to guide you through the mystical and often overlooked realm of **Sleep**. Many brave souls focus on the pillars of survival—food, water, and exercise. Legends say you can survive up to **21 days** without food, about **3 days** without water, and even months without exercise. But what about sleep? Let's dive into the night and uncover its secrets!
