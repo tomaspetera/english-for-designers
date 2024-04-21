@@ -18,7 +18,7 @@ Imagine your brain as a bustling city at night where different neighborhoods (or
 
 During the REM stage, our body must disconnect from the brain to prevent live-action dream reenactments. It's like having an internal bodyguard making sure you stay put. Philosopher Friedrich Nietzsche might say, "In this phase, we grapple with the very essence of reality through our dreams."
 
-<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Nap%C5%99%C3%ADklad%20osoba%2C%20kter%C3%A1%20sn%C3%AD%20bizarn%C3%AD%20sen%2C%20aby%20ilustrovala%20REM%20f%C3%A1zi%201986.jpg" width="100%" alt="Description of Image">
+<img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Nap%C5%99%C3%ADklad%20osoba%2C%20kter%C3%A1%20sn%C3%AD%20bizarn%C3%AD%20sen%2C%20aby%20ilustrovala%20REM%20f%C3%A1zi%201986.jpg" width="100%" alt="Dreaming Person">
 
 ## Why Should You Care About Sleep?
 
