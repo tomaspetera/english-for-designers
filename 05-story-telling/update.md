@@ -65,6 +65,6 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
 </p>
 
 <p align="center">
-  <heavy> "Want to know more about the stages of sleep? Watch this video."</heavy>
+  <strong> "Want to know more about the stages of sleep? Watch this video."</strong>
 </p>
 
