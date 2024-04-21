@@ -58,8 +58,8 @@ In conclusion, sleep isn't just a break from our daily grind—it's the unseen h
 
 So, fellow night travelers, remember to cherish and protect your sleep—it's the silent guardian of your health. Happy dreaming!
 
-<p align="center">
-  <strong>Want to know more about the stages of sleep? Watch this video.</strong>
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  Want to know more about the stages of sleep? Watch this video.
 </p>
 
 <p align="center">
