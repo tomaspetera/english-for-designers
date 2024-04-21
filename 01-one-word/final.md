@@ -20,6 +20,3 @@ In art and beauty, "good" is about what we like. If we say a painting is good, i
 
 So, "good" is a simple word we use a lot. It helps us say what's right or okay, talk about quality, and express our feelings. But it's important to know that what's good can be different for everyone. When we understand this, our conversations become more interesting and diverse.
 
-
-
-[Home](README.md)
