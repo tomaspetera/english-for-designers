@@ -1,4 +1,4 @@
-[Video]() to be added!
+[Video](https://youtu.be/Pl0jxXgFzc4) to be added!
 
 
 # Branding and Merchandising for Votice Pharmacy
