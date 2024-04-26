@@ -1,4 +1,4 @@
-# [Video](https://youtu.be/EfCSIAjp-Hk) of my bachalor thesis!
+# [Video](https://youtu.be/4qDu57zqiQE) of my bachalor thesis!
 
 
 # Branding and Merchandising for Votice Pharmacy
