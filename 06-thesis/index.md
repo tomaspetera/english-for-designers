@@ -1,17 +1,16 @@
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    <meta charset="UTF-8">
-    <title>Animovaný Text</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1 id="animated-text">Ahoj, GitHub!</h1>
+@keyframes textAnimation {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0px); }
+}
 
-    <script src="script.js"></script>
-</body>
-</html>
-
+#animated-text {
+    opacity: 0;
+    animation: textAnimation 2s ease forwards;
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    padding-top: 20px;
+}
 # [Video](https://youtu.be/4qDu57zqiQE) of my bachalor thesis!
 
 
