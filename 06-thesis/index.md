@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Animovaný Text</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="animated-text">Ahoj, GitHub!</h1>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
 # [Video](https://youtu.be/4qDu57zqiQE) of my bachalor thesis!
 
 
