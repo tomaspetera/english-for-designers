@@ -1,6 +1,5 @@
-# <p align="center">
-  [Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
-</p>
+# [Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
+
 # The Incredible Adventures of Tomáš in the Land of Nod
 
 <p align="center">
