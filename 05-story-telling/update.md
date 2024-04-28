@@ -1,5 +1,3 @@
-# [Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
-
 # The Incredible Adventures of Tomáš in the Land of Nod
 
 <p align="center">
@@ -66,6 +64,7 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
   </a>
 </p>
 
+# [Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
 <p align="center">
   <strong> "Want to know more about the stages of sleep? Watch this video."</strong>
 </p>
