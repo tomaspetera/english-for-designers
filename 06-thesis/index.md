@@ -1,10 +1,3 @@
-document.getElementById('animated-text').addEventListener('click', function() {
-    this.style.animation = 'none'; // Reset animace
-    setTimeout(() => {
-        this.style.animation = ''; // Restart animace
-    }, 10); // Krátké zpoždění pro reset
-});
-
 # [Video](https://youtu.be/4qDu57zqiQE) of my bachalor thesis!
 
 
