@@ -1,16 +1,10 @@
-@keyframes textAnimation {
-    0% { opacity: 0; transform: translateY(-20px); }
-    100% { opacity: 1; transform: translateY(0px); }
-}
+document.getElementById('animated-text').addEventListener('click', function() {
+    this.style.animation = 'none'; // Reset animace
+    setTimeout(() => {
+        this.style.animation = ''; // Restart animace
+    }, 10); // Krátké zpoždění pro reset
+});
 
-#animated-text {
-    opacity: 0;
-    animation: textAnimation 2s ease forwards;
-    font-size: 24px;
-    color: #333;
-    text-align: center;
-    padding-top: 20px;
-}
 # [Video](https://youtu.be/4qDu57zqiQE) of my bachalor thesis!
 
 
