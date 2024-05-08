@@ -2,7 +2,7 @@
 
 ## About me
 <p align="center">
-  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/eba4d778-2c36-468c-936d-6196a3d1077b" alt="Screenshot_2023-11-15-10-34-58-712_com google android apps photos" width="60%">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/eba4d778-2c36-468c-936d-6196a3d1077b" alt="Screenshot_2023-11-15-10-34-58-712_com google android apps photos" width="40%">
 </p>
 
 Hello! I'm Tomáš, a traveler with extensive experience in various cultures, and I'm a graphic design student based in Votice, around 50 km from Prague. I graduated from Akademy Michael last year, earning the title DiS. Currently, I'm working towards obtaining a BcA. title, which holds a significance similar to the final exam we had in a subject equivalent to the bachelor's level.
