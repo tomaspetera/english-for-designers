@@ -71,7 +71,7 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
 </p>
 
 <p align="center">
-[Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
+  <strong> Video of my storytelling!</strong>
   </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
