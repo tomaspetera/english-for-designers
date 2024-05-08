@@ -22,7 +22,9 @@ This is my project, where the task was to create my own brand. I focused on deve
 
 The visual identity is solely built around the name, which is typographically adjusted to convey a sense of dynamism. Moreover, upon purchasing clothing for a specific activity, customers gain access to a YouTube channel where prepared videos are available. These videos are categorized, each demonstrating how to perform a particular exercise either at the gym or in a home environment. In the image here, you can see the entire visual presentation in advertising, clothing, and the YouTube channel where the mentioned videos are accessible, along with a preview of the future brand's logo.
 
-![Page 12](https://github.com/tomaspetera/english-for-designers/blob/9ffc98445c7493bb3499ce58baa0370aecd08bbb/02-first-impression/img/fits.jpg)
+<p align="center">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/9fbfb59f-7a2e-433f-85b5-49a8781c5406" alt="fits" width="100%">
+</p>
 
 ## Kutná hora
 
@@ -30,19 +32,26 @@ The goal of this project was to create a complete visual identity for the Kutná
 
 Compositionally, I played with the design by prioritizing the most important information in larger fonts, complemented by a hand-painted background.
 
-![Artboard1_7](https://github.com/tomaspetera/english-for-designers/blob/50c6aba0bd41b431c94374faa5efa02f557b09a5/02-first-impression/img/kutnahora.jpg)
+<p align="center">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/6fefec00-bdc1-4a6e-b54d-85324e267fb6" alt="kutnahora" width="100%">
+</p>
+
 
 ## Améliora
 
 Branding a cosmetic salon for my friend was a bit of a challenge because the salon is located in a small town, and I wrestled with the idea of creating something both well-communicating and simultaneously functional and modern. Unfortunately, as I mentioned, it's a cosmetic salon branding in a small town where visual identity isn't as prominent, and people are more accustomed to simple, rural signage. Nevertheless, I chose to take a modern approach. The biggest challenge was integrating the desired name of her daughter (Amélie) with the name of the entire business. In the end, I came up with the word "Améliora," which reflects her daughter's name and also echoes the French word "Amelior," meaning beautiful. The entire visual is built around nature and the natural cosmetics used in the salon. The visual identity extends not only to marketing communication but also to all promotional materials such as discount cards, gift vouchers, business cards, and promotional materials.
 
-![Artboard1_8](https://github.com/tomaspetera/english-for-designers/blob/e9110f0e78cda67048dd1478c730543d8bdbf84f/02-first-impression/img/ameliora.jpg)
+<p align="center">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/2c65253d-8f56-42c1-a716-3053b6719d37" alt="ameliora" width="100%">
+</p>
 
 ## SmileFree
 
 The last project presented here is my final work at the Academy of Michael. This project is a campaign for the International Day of Smiles, celebrated every first Friday in October. The campaign's goal is to spread smiles wherever we are. The idea behind it is that a smile costs us nothing, yet it brings a more positive perception and relieves stress. Even a pretended smile releases the serotonin hormone, improving our day. The campaign is centered around the SMILEFREE logo, emphasizing that a smile is free. It further unfolds through slogans printed on items like shirts or marketing materials such as badges, journals, pens, bags, etc. The slogans carry the message of freedom of choice, allowing individuals to choose what resonates with them or inspiring them to engage in activities that uplift their mood and trigger the release of positive hormones like serotonin and dopamine. In the image below, you can see a part of the created branding within marketing, promotional materials, and a pamphlet detailing the function of receptors in the brain responding to dopamine and serotonin hormones, along with other essential information consulted with a psychologist to enhance mental health through written activities.
 
-![Artboard1_10](https://github.com/tomaspetera/english-for-designers/blob/10dc7cfdc9fb618e5c3834de0e007af06ac70b04/02-first-impression/img/smilefree.jpg)
+<p align="center">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/ccf4fe34-733e-4e93-b3b2-7e9fb1182117" alt="smilefree" width="100%">
+</p>
 
 # Also taking a picture
 
@@ -50,5 +59,7 @@ The last project presented here is my final work at the Academy of Michael. This
 
 And finally, a small glimpse from a photoshoot where I captured a campaign for the company BOHEMPIA. The campaign focuses on presenting barefoot shoes that are characterized not only by comfort but also by style. The concept of the photographs draws inspiration from the brand LEVIS, where the company itself found inspiration and created its products based on this influence.
 
-![Artboard1_13](https://github.com/tomaspetera/english-for-designers/blob/bc92d82c7f5148071a66f2e0e6d72f38878a1c9f/02-first-impression/img/foto.jpg)
-![Artboard1_5](https://github.com/tomaspetera/english-for-designers/blob/af9773cac89f0b524e844eb0de84efa9020aeb1b/02-first-impression/img/foto2.jpg)
+<p align="center">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/cb237c6b-da5a-4616-98c0-a22b6a43f769" alt="foto" width="100%">
+</p>
+
