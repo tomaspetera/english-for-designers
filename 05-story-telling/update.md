@@ -10,8 +10,9 @@ Hello, **adventurers**! My name is Tomáš, and I'm here to guide you through th
 ## The Secret Life of Your Brain at Night
 
 <p align="center">
-  <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Diagram%20nebo%20ilustrace%2C%20kter%C3%A1%20ukazuje%2C%20jak%20mozek%20pracuje%20b%C4%9Bhem%20r%C5%AFzn%C3%BDch%20f%C3%A1z%C3%AD%20sp%C3%A1nku%20(light%20sl.jpg" width="60%" alt="Brain Activity During Sleep">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/310fecda-c3c2-468e-ac8a-eeaad3d47d7f" alt="Firefly Diagram nebo ilustrace, která ukazuje, jak mozek pracuje během různých fází spánku (light sl" width="60%">
 </p>
+
 
 Imagine your brain as a bustling city at night where different neighborhoods (or brain processes) light up in sequence:
 
@@ -22,7 +23,7 @@ Imagine your brain as a bustling city at night where different neighborhoods (or
 During the REM stage, our body must disconnect from the brain to prevent live-action dream reenactments. It's like having an internal bodyguard making sure you stay put. Philosopher Friedrich Nietzsche might say, "In this phase, we grapple with the very essence of reality through our dreams."
 
 <p align="center">
-  <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Nap%C5%99%C3%ADklad%20osoba%2C%20kter%C3%A1%20sn%C3%AD%20bizarn%C3%AD%20sen%2C%20aby%20ilustrovala%20REM%20f%C3%A1zi%201986.jpg" width="80%" alt="Dreaming Person">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/9456cb80-0c24-49d0-971c-a9f8be28a0c4" alt="Firefly Například osoba, která sní bizarní sen, aby ilustrovala REM fázi 1986" width="80%">
 </p>
 
 ## Why Should You Care About Sleep?
@@ -32,7 +33,7 @@ Ever tried functioning like a human after a wild party with minimal sleep? Not f
 Studies suggest that sleep is as crucial for survival as food and water. Without enough sleep, our mental focus becomes as sharp as a rubber spoon, and our mood swings might qualify us for an emotional rollercoaster ride.
 
 <p align="center">
-  <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Zobrazuje%20zdravotn%C3%AD%20probl%C3%A9my%20spojen%C3%A9%20s%20nedostatkem%20sp%C3%A1nku%2C%20jako%20je%20sn%C3%AD%C5%BEen%C3%A1%20imunita%2C%20p%C5%99ib%C3%ADr%C3%A1n.jpg" width="60%" alt="Consequences of Sleep Deprivation">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/b76fccf8-861f-4076-9485-a16778c62327" alt="Firefly Zobrazuje zdravotní problémy spojené s nedostatkem spánku, jako je snížená imunita, přibírán" width="60%">
 </p>
 
 ## A Personal Journey to Dreamland
@@ -42,7 +43,7 @@ Back in my wild days, around the age of 20, I was a nightclub knight, battling t
 Then I stumbled upon the sacred texts of self-improvement: 'The Circadian Code' by Satchin Panda and 'Why We Sleep' by Matthew Walker. These books were my guides to the promised land of proper sleep.
 
 <p align="center">
-  <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Osoba%2C%20kter%C3%A1%20p%C5%99ipravuje%20sv%C3%A9%20lo%C5%BEn%C3%AD%20prost%C5%99ed%C3%AD%20pro%20sp%C3%A1nek%2C%20nap%C5%99%C3%ADklad%20zatem%C5%88uje%20m%C3%ADstnost%20nebo%20na.jpg" width="60%" alt="Preparing for Sleep">
+  <img src="https://github.com/tomaspetera/english-for-designers/assets/152968552/cca66b6e-cc20-4f26-bfa0-717cc6cd430f" alt="Firefly Osoba, která připravuje své ložní prostředí pro spánek, například zatemňuje místnost nebo na" width="60%">
 </p>
 
 Now, I follow a knightly routine:
