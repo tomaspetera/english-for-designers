@@ -70,7 +70,9 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
   <strong> "Want to know more about the stages of sleep? Watch this video."</strong>
 </p>
 
+<p align="center">
 [Video](https://youtu.be/D_AKIuLsfbM) of my storytelling!
+  </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
     <img alt="Watch the video" src="https://img.youtube.com/vi/D_AKIuLsfbM/maxresdefault.jpg" width="560" height="315"/>
