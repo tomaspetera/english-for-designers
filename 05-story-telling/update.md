@@ -1,7 +1,5 @@
 # The Incredible Adventures of Tomáš in the Land of Nod
 
-![Firefly Obrázek osoby, která spí, nebo umělecká interpretace spánku. 83658.jpg](https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg)
-
 <p align="center">
   <img src="https://github.com/tomaspetera/english-for-designers/blob/main/05-story-telling/IMG/Firefly%20Obr%C3%A1zek%20osoby%2C%20kter%C3%A1%20sp%C3%AD%2C%20nebo%20um%C4%9Bleck%C3%A1%20interpretace%20sp%C3%A1nku.%2083658.jpg" width="60%" alt="Person Sleeping">
 </p>
