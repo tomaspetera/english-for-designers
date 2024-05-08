@@ -1,8 +1,6 @@
 # The Incredible Adventures of Tomáš in the Land of Nod
 
-<p align="center">
 ![Firefly Obrázek osoby, která spí, nebo umělecká interpretace spánku  83658](https://github.com/tomaspetera/english-for-designers/assets/152968552/81c8b64c-9788-47ab-8de3-c6ea5ed4ebb6)
-</p>
 
 Hello, **adventurers**! My name is Tomáš, and I'm here to guide you through the mystical and often overlooked realm of **Sleep**. Many brave souls focus on the pillars of survival—food, water, and exercise. Legends say you can survive up to **21 days** without food, about **3 days** without water, and even months without exercise. But what about sleep? Let's dive into the night and uncover its secrets!
 
