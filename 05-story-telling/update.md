@@ -1,6 +1,6 @@
-<p align="center">
+
   <strong> [Video](https://www.youtube.com/watch?v=D_AKIuLsfbM) of my storytelling!</strong>
-  </p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
