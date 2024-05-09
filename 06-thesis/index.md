@@ -1,5 +1,5 @@
 <p align="center">
-  <strong> Video of my thesis!</strong>
+  <strong> Video(https://www.youtube.com/watch?v=4qDu57zqiQE) of my thesis!</strong>
   </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4qDu57zqiQE">
