@@ -27,12 +27,14 @@ The Votice Pharmacy was particularly appealing because it offered a real opportu
 
 ## The Key Visuals
 For the new visual identity, I designed a new logo, selected a harmonious typography, and chose a color scheme that conveyed modernity and accessibility. These elements were designed to improve brand recognition and ensure consistency across all platforms where the pharmacy is present.
+![instagram-vizuál-2](https://github.com/tomaspetera/english-for-designers/assets/152968552/ce9d89e8-47c7-4065-a67c-08d7a9e96427)
 
 ## Copywriting
 I created a new tagline and developed consistent messaging that emphasized the pharmacy's dedication to quality and community health. This content was used across various marketing channels to keep the brand voice consistent.
 
 ## Merchandising
 I suggested changes to the physical layout of the store to make products more visible and to enhance the flow of customers through the space, which improves the overall shopping experience.
+![znovupoužitelná-rouška](https://github.com/tomaspetera/english-for-designers/assets/152968552/154d07a0-d710-4067-8a1e-52f01447a36a)
 
 ## Digital and Printed Promotion
 The marketing strategy included both online and offline elements to reach a wider audience and engage effectively with various age groups and preferences.
