@@ -1,3 +1,12 @@
+<p align="center">
+  <strong> [Video](https://www.youtube.com/watch?v=D_AKIuLsfbM) of my storytelling!</strong>
+  </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
+    <img alt="Watch the video" src="https://img.youtube.com/vi/D_AKIuLsfbM/maxresdefault.jpg" width="560" height="315"/>
+  </a>
+</p>
 
 # The Incredible Adventures of Tomáš in the Land of Nod
 
@@ -76,5 +85,5 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
   </a>
 </p>
 <p align="center">
-  <strong> Video of my storytelling!</strong>
+  <strong> [Video]( of my storytelling!</strong>
   </p>
