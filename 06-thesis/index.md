@@ -1,11 +1,11 @@
-<p align="center">
+
   <strong> [Video](https://www.youtube.com/watch?v=4qDu57zqiQE) of my thesis!</strong>
-  </p>
-<p align="center">
+ 
+
   <a href="https://www.youtube.com/watch?v=4qDu57zqiQE">
     <img alt="Watch the video" src="https://img.youtube.com/vi/4qDu57zqiQE/maxresdefault.jpg" width="560" height="315"/>
   </a>
-</p>
+
 
 
 
