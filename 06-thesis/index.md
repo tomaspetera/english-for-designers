@@ -34,7 +34,7 @@ I created a new tagline and developed consistent messaging that emphasized the p
 
 ## Merchandising
 I suggested changes to the physical layout of the store to make products more visible and to enhance the flow of customers through the space, which improves the overall shopping experience.
-![znovupoužitelná-rouška](https://github.com/tomaspetera/english-for-designers/assets/152968552/154d07a0-d710-4067-8a1e-52f01447a36a)
+![znovupoužitelná-rouška](https://github.com/tomaspetera/english-for-designers/assets/152968552/39e535a2-9287-4f7c-86ec-c535d36fc008)
 
 ## Digital and Printed Promotion
 The marketing strategy included both online and offline elements to reach a wider audience and engage effectively with various age groups and preferences.
