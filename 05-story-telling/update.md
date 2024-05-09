@@ -2,11 +2,10 @@
   <strong> [Video](https://www.youtube.com/watch?v=D_AKIuLsfbM) of my storytelling!</strong>
 
 
-<p align="center">
+
   <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
     <img alt="Watch the video" src="https://img.youtube.com/vi/D_AKIuLsfbM/maxresdefault.jpg" width="560" height="315"/>
   </a>
-</p>
 
 # The Incredible Adventures of Tomáš in the Land of Nod
 
