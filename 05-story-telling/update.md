@@ -72,7 +72,7 @@ So, fellow night travelers, remember to cherish and protect your sleep—it's th
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=D_AKIuLsfbM">
-    <img alt="Watch the video" src="https://img.youtube.com/vi/D_AKIuLsfbM/maxresdefault.jpg" width="560" height="315"/>
+    <img alt="Watch the video" src="https://img.youtube.com/watch?v=D_AKIuLsfbM/maxresdefault.jpg" width="560" height="315"/>
   </a>
 </p>
 <p align="center">
