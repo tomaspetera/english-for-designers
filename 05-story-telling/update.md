@@ -1,5 +1,3 @@
-## Learn More About The Stage of Sleep
-[Watch](https://www.youtube.com/watch?v=UJ6N_MTyMdY) this video.
 
 # The Incredible Adventures of Tomáš in the Land of Nod
 
@@ -64,13 +62,8 @@ In conclusion, sleep isn't just a break from our daily grind—it's the unseen h
 So, fellow night travelers, remember to cherish and protect your sleep—it's the silent guardian of your health. Happy dreaming!
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=UJ6N_MTyMdY">
-    <img alt="Watch the video" src="https://img.youtube.com/vi/UJ6N_MTyMdY/maxresdefault.jpg" width="560" height="315"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong> "Want to know more about the stages of sleep? Watch this video."</strong>
+  ## Learn More About The Stage of Sleep
+[Watch](https://www.youtube.com/watch?v=UJ6N_MTyMdY) this video.
 </p>
 
 <p align="center">
